@@ -1,2 +1,2 @@
 # Tip-Calculator
-Tip Calculator web app using Python and JavaScript
+A simple webapp that helps you calculate your tip. Developed in Python and Javascript
